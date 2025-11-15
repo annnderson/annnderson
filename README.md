@@ -14,5 +14,5 @@ Profissional em transição para Dados, formado em Marketing e certificado pela 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annndersonlayout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annnderson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
