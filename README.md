@@ -11,3 +11,7 @@ Profissional em transição para Dados, formado em Marketing e certificado pela 
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annnderson&repo=cofiex-data-insights&theme=dark)](https://github.com/annnderson/cofiex-data-insights)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annndersonlayout=compact)](https://github.com/annnderson/cofiex-data-insights)
