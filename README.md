@@ -18,4 +18,4 @@ Profissional em transição para Dados, formado em Marketing e certificado pela 
 
 ### Contatos
 
-[<img src='https://similarpng.com/linkedin-logo-on-transparent-png/style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/anderson-r-santos/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/anderson-r-santos/)
