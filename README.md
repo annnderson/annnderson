@@ -16,3 +16,6 @@ Profissional em transição para Dados, formado em Marketing e certificado pela 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annnderson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Contatos
+
+[<img src='https://similarpng.com/linkedin-logo-on-transparent-png/style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/anderson-r-santos/)
