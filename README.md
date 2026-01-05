@@ -4,8 +4,6 @@
 ###### Sobre o Anderson
 Profissional em transição para Dados, formado em Marketing e certificado pela EBAC. Desenvolvo projetos com Python, SQL, Pandas, ETL, Dashboards e BI, fortalecendo minha base como Analista de Dados e criando soluções que gerem valor real.
 
-Atuo no desenvolvimento de projetos voltados à análise, tratamento e visualização de dados, utilizando ferramentas modernas para transformar dados em insights acionáveis e soluções de valor para o negócio.
-
 Tenho experiência prática com Python, SQL, ETL, BI e análise exploratória, além de forte capacidade analítica, organização e comunicação — características que trago da minha formação em Marketing e experiências profissionais anteriores.
 
 Atualmente, meu foco está em consolidar minha carreira na área de Dados, evoluindo continuamente em projetos práticos, boas práticas analíticas e tecnologias do ecossistema de dados.
