@@ -4,19 +4,47 @@
 ###### Sobre o Anderson
 Profissional em transição para Dados, formado em Marketing e certificado pela EBAC. Desenvolvo projetos com Python, SQL, Pandas, ETL, Dashboards e BI, fortalecendo minha base como Analista de Dados e criando soluções que gerem valor real.
 
-## Projetos em Destaque
+Atuo no desenvolvimento de projetos voltados à análise, tratamento e visualização de dados, utilizando ferramentas modernas para transformar dados em insights acionáveis e soluções de valor para o negócio.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annnderson&repo=cofiex-data-insights&theme=dark)](https://github.com/annnderson/cofiex-data-insights)
+Tenho experiência prática com Python, SQL, ETL, BI e análise exploratória, além de forte capacidade analítica, organização e comunicação — características que trago da minha formação em Marketing e experiências profissionais anteriores.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annnderson&repo=youtube-us-etl-pyspark&theme=dark)](https://github.com/annnderson/youtube-us-etl-pyspark)
+Atualmente, meu foco está em consolidar minha carreira na área de Dados, evoluindo continuamente em projetos práticos, boas práticas analíticas e tecnologias do ecossistema de dados.
 
-### Linguagens utilizadas
+🚀 Projetos em Destaque
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annnderson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🔹 Cofiex – Data Insights
+Análise de dados financeiros com foco em indicadores, limpeza de dados e visualização.
+👉 https://github.com/annnderson/cofiex-data-insights
 
-### Detalhes
+🔹 Análise de Funil de Vendas Digital
+O foco é demonstrar um fluxo completo de análise de dados, contemplando extração, preparação, modelagem e visualização dos dados.
+👉 https://github.com/annnderson/digital_funnel_analysis
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annnderson&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+🖥️ Linguagens e Ferramentas
+
+➡️ Python | SQL | PySpark | BigQuery | Power BI | Excel | Git
+
+📚 Bibliotecas e Tecnologias
+
+➡️ Pandas | NumPy | PySpark | Matplotlib | Seaborn
+➡️ ETL | Análise Exploratória de Dados (EDA) | Dashboards Interativos
+➡️ Modelagem de dados e consultas analíticas
+
+💡 Visualização e Storytelling
+
+➡️ Storytelling com dados utilizando Jupyter Notebook
+➡️ Criação de dashboards interativos no Power BI
+➡️ Comunicação clara de insights para tomada de decisão
+
+🌍 Idiomas
+
+➡️ Inglês – leitura técnica e documentação
+
+📈 Aprendendo no momento
+
+➡️ BigQuery e SQL avançado
+➡️ Otimização de pipelines de dados
+➡️ Boas práticas para projetos analíticos e portfólio profissional
 
 ### Contatos
 
