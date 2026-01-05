@@ -11,10 +11,12 @@ Atualmente, meu foco está em consolidar minha carreira na área de Dados, evolu
 🚀 Projetos em Destaque
 
 🔹 Cofiex – Data Insights
+
 Análise de dados financeiros com foco em indicadores, limpeza de dados e visualização.
 👉 https://github.com/annnderson/cofiex-data-insights
 
 🔹 Análise de Funil de Vendas Digital
+
 O foco é demonstrar um fluxo completo de análise de dados, contemplando extração, preparação, modelagem e visualização dos dados.
 👉 https://github.com/annnderson/digital_funnel_analysis
 
