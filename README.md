@@ -41,7 +41,9 @@ Diagnóstico de comportamento de clientes com foco em crescimento sustentável.
 - Identificação de baixa retenção (~3%) e alta dependência de aquisição  
 - Análise de LTV, recorrência e segmentação RFM  
 - Avaliação de impacto da retenção na receita  
-- Insights para estratégias de fidelização e aumento de frequência  
+- Insights para estratégias de fidelização e aumento de frequência
+- 
+👉 https://github.com/annnderson/ecommerce-retention-ltv-analysis
 
 ---
 
