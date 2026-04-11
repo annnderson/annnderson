@@ -1,53 +1,87 @@
 ## Olá 👋
 
 
-###### Sobre o Anderson
-Profissional em transição para Dados, formado em Marketing e certificado pela EBAC. Desenvolvo projetos com Python, SQL, Pandas, ETL, Dashboards e BI, fortalecendo minha base como Analista de Dados e criando soluções que gerem valor real.
+## 👋 Sobre mim
 
-Tenho experiência prática com Python, SQL, ETL, BI e análise exploratória, além de forte capacidade analítica, organização e comunicação, características que trago da minha formação em Marketing e experiências profissionais anteriores.
+Analista de dados em formação com foco em transformar dados em decisões de negócio. Possuo experiência prática em projetos de análise de retenção, funil de vendas e dados financeiros, identificando oportunidades de crescimento, otimização de performance e melhoria de processos.
 
-Atualmente, meu foco está em consolidar minha carreira na área de dados, evoluindo continuamente em projetos práticos, boas práticas analíticas e tecnologias do ecossistema de dados.
+Minha base em Marketing fortalece minha visão analítica orientada a resultados, permitindo conectar dados a estratégias reais de negócio. Atuo com SQL, Python e ferramentas de BI para explorar dados, gerar insights acionáveis e apoiar a tomada de decisão.
 
-🚀 Projetos em Destaque
+---
 
-🔹 Cofiex – Data Insights
+## 🚀 Projetos em Destaque
 
-Análise de dados financeiros com foco em indicadores, limpeza de dados e visualização.
+### 🔹 Cofiex — Análise de Dados Públicos
+Análise de projetos financiados por organismos internacionais, identificando gargalos no processo de aprovação.
+
+- Identificação de ciclos médios de até 10 anos até assinatura  
+- Análise de impacto de múltiplas fontes no tempo de aprovação  
+- Exploração de distribuição de recursos por setor e região  
+- Geração de insights para melhoria de eficiência em processos públicos  
+
 👉 https://github.com/annnderson/cofiex-data-insights
 
-🔹 Análise de Funil de Vendas Digital
+---
 
-O foco é demonstrar um fluxo completo de análise de dados, contemplando extração, preparação, modelagem e visualização dos dados.
+### 🔹 Análise de Funil de Vendas Digital
+Análise completa do funil de conversão com dados do Google Analytics.
+
+- Identificação de pontos críticos de abandono no funil  
+- Análise de eficiência por canal de aquisição  
+- Avaliação de métricas como conversão, RPV e ticket médio  
+- Identificação de oportunidades de aumento de receita  
+
 👉 https://github.com/annnderson/digital_funnel_analysis
 
-🖥️ Linguagens e Ferramentas
+---
 
-➡️ Python | SQL | PySpark | BigQuery | Power BI | Excel | Git
+### 🔹 Análise de LTV, Retenção e Recorrência (E-commerce)
+Diagnóstico de comportamento de clientes com foco em crescimento sustentável.
 
-📚 Bibliotecas e Tecnologias
+- Identificação de baixa retenção (~3%) e alta dependência de aquisição  
+- Análise de LTV, recorrência e segmentação RFM  
+- Avaliação de impacto da retenção na receita  
+- Insights para estratégias de fidelização e aumento de frequência  
 
-➡️ Pandas | NumPy | PySpark | Matplotlib | Seaborn
-➡️ ETL | Análise Exploratória de Dados (EDA) | Dashboards Interativos
-➡️ Modelagem de dados e consultas analíticas
+---
 
-💡 Visualização e Storytelling
+## 📊 O que eu entrego com dados
 
-➡️ Storytelling com dados utilizando Jupyter Notebook
-➡️ Criação de dashboards interativos no Power BI
-➡️ Comunicação clara de insights para tomada de decisão
+- Identificação de gargalos em funis de conversão  
+- Análise de retenção e comportamento de clientes  
+- Geração de insights para aumento de receita e eficiência  
+- Transformação de dados em recomendações acionáveis  
 
-🌍 Idiomas
+---
 
-➡️ Inglês – leitura técnica e documentação
+## 🛠️ Ferramentas e Tecnologias
 
-📈 Aprendendo no momento
+**Linguagens e BI:**  
+Python | SQL | Power BI | BigQuery | Excel  
 
-➡️ BigQuery e SQL avançado
-➡️ Otimização de pipelines de dados
-➡️ Boas práticas para projetos analíticos e portfólio profissional
+**Bibliotecas:**  
+Pandas | NumPy | Matplotlib  
 
-### Contatos
+**Conceitos:**  
+ETL | Análise Exploratória (EDA) | Modelagem de Dados | KPIs  
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/anderson-r-santos/)
+---
 
-EMAIL: anderson.anflow@gmail.com
+## 📈 Atualmente focado em
+
+- SQL avançado e análise de dados em larga escala  
+- Boas práticas em projetos analíticos  
+- Desenvolvimento de portfólio com foco em problemas reais de negócio  
+
+---
+
+## 🌍 Idiomas
+
+Inglês — leitura técnica e documentação  
+
+---
+
+## 📫 Contato
+
+LinkedIn  
+Email: anderson.anflow@gmail.com  
