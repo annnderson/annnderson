@@ -20,7 +20,7 @@ Projeto real de análise de dados do Instagram de uma barbearia, com diagnóstic
 - Fonte de dados conectada ao Google Sheets com atualização automática
 - Heatmap de melhores horários e dias para postagem
 
-👉 https://github.com/annnderson/studio-faria-instagram-analysis
+👉 https://github.com/annnderson/instagram-barbearia
 
 ---
 
